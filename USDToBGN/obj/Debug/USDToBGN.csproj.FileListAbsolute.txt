@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\USDToBGN\bin\Debug\USDToBGN.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\USDToBGN\bin\Debug\USDToBGN.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\USDToBGN\bin\Debug\USDToBGN.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\USDToBGN\obj\Debug\USDToBGN.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\USDToBGN\obj\Debug\USDToBGN.pdb
